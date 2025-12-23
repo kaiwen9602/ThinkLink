@@ -6,9 +6,9 @@ ThinkLink  (hereinafter referred to as TKL) is a comprehensive and highly integr
 At the same time, TKL supports accessing data from third-party systems through the standard MQTT protocol, realizing the integration and unified management of multi-source data, and greatly enhancing the openness and compatibility of the platform. 
 Deployment flexibility 
 TKL provides high deployment flexibility. You can choose any of the following deployment methods based on project requirements and environment characteristics: 
-  ○ Cloud server (Cloud) : It is applicable to scenarios that need to get started quickly and do not need local resources. 
-  ○ Edge Server (TKE) : Meet applications that require data localization and low-latency communication, and support private deployment. 
-  ○ Gateway Internal （TKG） : The NS function is directly embedded in the gateway device to achieve lightweight and low-cost local network management. 
+  1.1 Cloud server (Cloud) : It is applicable to scenarios that need to get started quickly and do not need local resources. 
+  1.2 Edge Server (TKE) : Meet applications that require data localization and low-latency communication, and support private deployment. 
+  1.3 Gateway Internal （TKG） : The NS function is directly embedded in the gateway device to achieve lightweight and low-cost local network management. 
 This "cloud-edge-end" integrated deployment capability enables TKL to flexibly adapt to various requirements from small-scale testing to large-scale enterprise applications. 
 Core Features Overview 
 TKL provides a series of powerful function modules, covering the entire life cycle of IoT applications from device access to business analysis: 
